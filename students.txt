@@ -1,0 +1,4 @@
+Student Registration Details 
+1. Rahul - CSE - Python 
+2. Priya - CSE - Data Structures 
+3. Aman - IT - DBMS 
