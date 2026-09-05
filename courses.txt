@@ -1,4 +1,4 @@
-Python 
-Data Structures 
-Database Management System 
-Computer Networks 
+Python - Web Development
+Data Structures
+Database Management System
+Computer Networks
